@@ -3,7 +3,7 @@ Anûtu är ett skepp som skickades iväg av [Sfären](/knowledge/sfären.md). Ut
 ## Besättning
 Ingen ur besättningen är medveten om skeppets egentliga syfte, annat än att de alla förstår att det är lika mycket ett prestigeprojekt för Sfären som det är en vetenskaplig expedition.
 ### Kapten Maria Eriksson
-Praktisk och beslutsam, bär tydligt på trycket av ansvaret för besättningen. Accepterade uppdraget utan att ha något verkligt val – ingen tackade nej till Sfären. Håller ihop situationen även när allt faller samman. 34 år, atletisk, sliten av uppdraget, isolering, stress.
+Se [maria_eriksson.md](/knowledge/maria_eriksson.md)
 ### Ingenjör Robert
 Ansvarar för kommunikationsutrustningen bland annat. Pragmatisk men inte utan känslor – hans panik bryter igenom när han inser hur allvarlig läckan är. Är den enda som kan genomföra rymdpromenaden.
 ### Doktor Gaspard Villeneuve-Morel (läkare)
